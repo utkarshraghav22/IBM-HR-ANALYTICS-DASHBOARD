@@ -1,11 +1,39 @@
-# IBM-HR-ANALYTICS-DASHBOARD
-# This project focuses on analyzing employee attrition at IBM using an HR dataset. The goal is to uncover key insights into the factors influencing employee turnover, helping HR and management teams make data-driven decisions to improve retention.
-#The interactive dashboard provides a comprehensive overview of workforce demographics, attrition patterns, and business-related variables. Key visualizations include:
+📊 IBM HR Analytics Dashboard
+🔍 Project Overview
+This project presents an interactive HR Analytics Dashboard built using IBM’s employee attrition dataset. The objective is to analyze workforce patterns and identify key factors influencing employee turnover, enabling data-driven strategies for improving employee retention.
 
-#Total Employees and Attrition Overview
-#Gender Distribution
-#Attrition by Department, Job Role, and Education Field
-#Attrition vs. Salary, Distance from Home, and Overtime
-#Workforce Composition by Age, Marital Status, and Education
+📈 Key Features
+Visualization of Total Employees & Attrition
 
-#The analysis highlights potential attrition drivers such as long commute distances, low income, frequent overtime, and certain job roles or departments. This enables HR teams to identify risk areas, implement targeted retention strategies, and enhance employee satisfaction.
+Gender Distribution insights
+
+Attrition by Department, Job Role, and Education Field
+
+Analysis of Attrition vs. Monthly Income, Distance from Home, and Overtime
+
+Workforce Composition by Age, Education, Marital Status, etc.
+
+🧠 Insights Gained
+The dashboard reveals critical attrition drivers such as:
+
+Long commute distances
+
+Low monthly income
+
+Frequent overtime
+
+Specific job roles and departments
+
+These insights help HR teams focus on risk areas, improve employee satisfaction, and reduce turnover.
+
+🛠️ Tools & Technologies
+Microsoft Excel / Power BI (or mention the tool used)
+
+Data Cleaning & Transformation
+
+Dashboard Design & Visualization
+
+📁 Dataset
+IBM HR Employee Attrition Dataset
+
+Contains employee-level information such as age, gender, salary, department, education, job role, work experience, and attrition status.
